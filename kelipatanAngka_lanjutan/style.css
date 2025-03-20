@@ -1,0 +1,59 @@
+h1, h2, p, table{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+p {
+    font-weight: bold;
+}
+
+td {
+    width: 700px;
+    text-align: center;
+    background-color: aqua;
+    padding: 15px;
+    font-weight: bold;
+}
+
+.kelipatan{
+    background-color: rgb(250, 103, 255);
+    color: rgb(0, 0, 0);
+    font-weight: lighter;
+}
+
+.angka{
+    background-color: aliceblue;
+    font-weight: lighter;
+}
+
+
+button{
+    background-color: rgb(184, 184, 184);
+    margin-left: 1%;
+    padding: 10px 20px;
+    border-radius: 5px;
+    border-style: none;
+    opacity: 0.8;
+    font-weight: bold;
+    color: rgb(3, 3, 3);
+}
+
+h1{
+    font-weight: bold;
+}
+
+label{
+    margin-right: 1%;
+}
+
+th{
+    padding: 20px;
+    background-color: rgb(190, 190, 190);
+}
+
+button:hover{
+    background-color: aqua;
+}
