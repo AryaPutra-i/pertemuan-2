@@ -21,8 +21,6 @@ body{
     background-color: green;
     animation: background_animation 10s ease 3 alternate forwards running;
     border-radius: 10px
-    
-    
 }
 
 @keyframes ballAnimation {
